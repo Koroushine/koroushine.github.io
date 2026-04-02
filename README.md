@@ -69,4 +69,4 @@ A curated collection of PHP programs including:
 **Korounganba Thokchom** *BCA 4th Semester | Web Development Project*
 
 ---
-*Created as part of "The Digital Gallery" series.*
+
