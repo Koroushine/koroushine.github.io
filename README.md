@@ -1,8 +1,6 @@
-Based on the file structure and the content of your project files, here is a comprehensive `README.md` for your GitHub repository.
+# KorouShine — VAC : Web Development Project
 
-# SwitchLab — The Digital Gallery
-
-**SwitchLab** is a refined web development project created for a BCA 4th Semester Web Development Lab. It is a modern, responsive multi-page website that explores the world of mechanical keyboard switches while showcasing practical web development skills.
+**KorouShine** is a refined web development project created for a BCA 4th Semester Web Development Lab. It is a modern, responsive multi-page website that explores the world of mechanical keyboard switches while showcasing practical web development skills.
 
 ---
 
